@@ -1,0 +1,23 @@
+.list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: #43556d;
+}
+
+.people {
+  background-color: #c6dbf9;
+  color: #43556d;
+  height: 200px;
+  width: 200px;
+  margin: 15px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+#names {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 29px;
+}
